@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-easy-crop-tutorial/static/css/main.f7b55287.chunk.css",
+    "main.js": "/react-easy-crop-tutorial/static/js/main.c6368327.chunk.js",
+    "main.js.map": "/react-easy-crop-tutorial/static/js/main.c6368327.chunk.js.map",
+    "runtime-main.js": "/react-easy-crop-tutorial/static/js/runtime-main.be2c5aeb.js",
+    "runtime-main.js.map": "/react-easy-crop-tutorial/static/js/runtime-main.be2c5aeb.js.map",
+    "static/js/2.6fe61528.chunk.js": "/react-easy-crop-tutorial/static/js/2.6fe61528.chunk.js",
+    "static/js/2.6fe61528.chunk.js.map": "/react-easy-crop-tutorial/static/js/2.6fe61528.chunk.js.map",
+    "static/js/3.da91ece0.chunk.js": "/react-easy-crop-tutorial/static/js/3.da91ece0.chunk.js",
+    "static/js/3.da91ece0.chunk.js.map": "/react-easy-crop-tutorial/static/js/3.da91ece0.chunk.js.map",
+    "index.html": "/react-easy-crop-tutorial/index.html",
+    "static/css/main.f7b55287.chunk.css.map": "/react-easy-crop-tutorial/static/css/main.f7b55287.chunk.css.map",
+    "static/js/2.6fe61528.chunk.js.LICENSE.txt": "/react-easy-crop-tutorial/static/js/2.6fe61528.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be2c5aeb.js",
+    "static/js/2.6fe61528.chunk.js",
+    "static/css/main.f7b55287.chunk.css",
+    "static/js/main.c6368327.chunk.js"
+  ]
+}
